@@ -1,3 +1,2 @@
 # pong
-eneshep.github.io/pong
-
+https://eneshep.github.io/pong/
