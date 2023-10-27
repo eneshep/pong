@@ -1,2 +1,2 @@
 # pong
-pong
+eneshep.github.io/pongs/
